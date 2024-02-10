@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpWubb77MVQCt5v4v8k9LesbNvgXqQLdfbG5CSxtS+D0+Wi+konQojF0N1oyIQhzuFE6F1qEHshad+epjJk9Wg==",
+  "success": true,
+  "projectFilePath": "C:\\platzi\\consoleapp\\consoleapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trabajo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Trabajo\\.nuget\\packages\\humanizer.core.es\\2.14.1\\humanizer.core.es.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
